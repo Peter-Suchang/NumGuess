@@ -1,2 +1,1 @@
-# cppstudy
-C++
+# C++ Project 1
