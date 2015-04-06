@@ -1,1 +1,2 @@
-# C++ Project 1
+# NumGuess
+C++ Project 1
